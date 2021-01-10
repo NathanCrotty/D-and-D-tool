@@ -1,0 +1,306 @@
+{
+    "proffesions": [
+        {
+            "building": "blacksith",
+            "items": [
+                "iron bar",
+                "sword",
+                "lock",
+                "wood"
+            ],
+            "people": [
+                "locksmith",
+                "blacksmith",
+                "owner",
+                "swordsmith",
+                "quentcher",
+                "apprentice",
+                "farrier"
+            ]
+        },
+        {
+            "building": "ranch",
+            "items": [
+                "baby goat",
+                "bottle of milk",
+                "eggs",
+                "whip",
+                "haybale",
+                "wool"
+            ],
+            "people": [
+                "cattleman",
+                "owner",
+                "dayworker",
+                "ranch hand",
+                "sharecropper"
+            ]
+        },
+        {
+            "building": "farm",
+            "items": [
+                "sack of barley",
+                "ack of wheat",
+                "italian asparagus",
+                "patato",
+                "grapes"
+            ],
+            "people": [
+                "owner",
+                "hand",
+                "hoe",
+                "weeder",
+                "sower",
+                "harvester",
+                "fertilizer"
+            ]
+        },
+        {
+            "building": "orchard",
+            "items": [
+                "apple",
+                "orange",
+                "peach"
+            ],
+            "people": [
+                "picker",
+                "owner",
+                "fertilizer",
+                "waterer"
+            ]
+        },
+        {
+            "building": "tavern",
+            "items": [
+                "keg of beer",
+                "bread",
+                "bowl of porridge",
+                " bowl of noodles",
+                "bottle of wine",
+                "cup of water"
+            ],
+            "people": [
+                "owner",
+                "worker",
+                "janitor",
+                "servant",
+                "chef",
+                "bartender",
+                "dishwasher"
+            ]
+        },
+        {
+            "building": "church",
+            "items": [
+                "chalice of holy water",
+                "flatbread",
+                "bottle of wine",
+                "candle"
+            ],
+            "people": [
+                "preist",
+                "preacher",
+                "baratone singer",
+                "tener singer",
+                "saprano singer",
+                "nun",
+                "janitor"
+            ]
+        },
+        {
+            "building": "textile mill",
+            "items": [
+                "wool",
+                "thread",
+                "wool",
+                "fabric",
+                "sack"
+            ],
+            "people": [
+                "mechanic",
+                "supervisor",
+                "weaver",
+                "operater"
+            ]
+        },
+        {
+            "building": "bakery",
+            "items": [
+                "bread",
+                "flatbread",
+                "cake",
+                "donut"
+            ],
+            "people": [
+                "head baker",
+                "sue baker",
+                "apprentice",
+                "janitor"
+            ]
+        },
+        {
+            "building": "grain mill",
+            "items": [
+                "sack of flour",
+                "wheat",
+                "sack of barley"
+            ],
+            "people": [
+                "miller",
+                "apprentice",
+                "mechanic",
+                "donkey",
+                "owner"
+            ]
+        },
+        {
+            "building": "butcher shop",
+            "items": [
+                "pork chops",
+                "ground beef",
+                "steak",
+                "lamb carcass"
+            ],
+            "people": [
+                "apprentice",
+                "owner",
+                "butcher",
+                "janitor"
+            ]
+        },
+        {
+            "building": "jail",
+            "items": [
+                "bucket",
+                "sword",
+                "rope"
+            ],
+            "people": [
+                "jailer",
+                "prisoner",
+                "executioner",
+                "chef"
+            ]
+        },
+        {
+            "building": "tailor's shop",
+            "items": [
+                "thread",
+                "dress",
+                "corset",
+                "shirt",
+                "needle"
+            ],
+            "people": [
+                "sewista",
+                "owner",
+                "seamstress",
+                "apprentice",
+                "dressmaker"
+            ]
+        },
+        {
+            "building": "cobbler's shop",
+            "items": [
+                "leather",
+                "shoe",
+                "bag of nails",
+                "glue"
+            ],
+            "people": [
+                "cobbler",
+                "shoemaker",
+                "apprentice",
+                "shoes-shiner"
+            ]
+        },
+        {
+            "building": "candler's shop",
+            "items": [
+                "candle",
+                "wax",
+                "string",
+                "bag of candles"
+            ],
+            "people": [
+                "candler",
+                "apprentice"
+            ]
+        },
+        {
+            "building": "carpentry shop",
+            "items": [
+                "wood",
+                "table",
+                "chair"
+            ],
+            "people": [
+                "apprentice",
+                "owner",
+                "carpenter",
+                "lathe operator"
+            ]
+        },
+        {
+            "building": "hattery",
+            "items": [
+                "felt",
+                "hat",
+                "ribbon"
+            ],
+            "people": [
+                "hatter",
+                "apprentice"
+            ]
+        },
+        {
+            "building": "ropery",
+            "items": [
+                "yarn",
+                "reeds",
+                "rope"
+            ],
+            "people": [
+                "ropemaker",
+                "spinner"
+            ]
+        },
+        {
+            "building": "tannery",
+            "items": [
+                "leather",
+                "cow hide",
+                "bucket of water"
+            ],
+            "people": [
+                "tanner",
+                "leather worker",
+                "samak"
+            ]
+        },
+        {
+            "building": "arrowsmith",
+            "items": [
+                "feather",
+                "stick",
+                "arrowhead",
+                "arrow",
+                "bow",
+                "string"
+            ],
+            "people": [
+                "arrowsmith"
+            ]
+        },
+        {
+            "building": "other",
+            "people": [
+                "merchant",
+                "fisherman",
+                "hunter",
+                "hobo",
+                "painter"
+            ]
+        }
+    ]
+}

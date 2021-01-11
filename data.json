@@ -1,21 +1,91 @@
 {
-    "species":[
+    "species": [
         {
-            "race": "human"
-
+            "race": "human",
+            "weight": [
+                100,
+                270
+            ],
+            "height": [
+                55,
+                75
+            ]
         },
-        {"race":"ork"},
-        {"race": "elf"},
-        {"race":"halfing"},
-        {"race":"tiefling"},
-        {"race": "Dragonborn"},
-        {"race": "goblin"},
-        {"race": "dwarf"},
-        {"race": "satyr"},
-        {"race": "gnome"},
-        {"race": "centaur"},
-        {"race": "minotaur"},
-        {"race": "hobgoblins"}
+        {
+            "race": "half ork",
+            "weight": [
+                180,
+                250
+            ],
+            "height": [
+                60,
+                84
+            ]
+        },
+        {
+            "race": "elf",
+            "weight": [
+                100,
+                145
+            ],
+            "height": [
+                53,
+                74
+            ]
+        },
+        {
+            "race": "halfing",
+            "weight": [
+                40,
+                45
+            ],
+            "height": [
+                26,
+                46
+            ]
+        },
+        {
+            "race": "tiefling",
+            "weight":[100, 270],
+            "height":[55, 75]
+            
+        },
+        {
+            "race": "Dragonborn",
+            "weight":[295, 350],
+            "height":[84, 74]
+        },
+        {
+            "race": "goblin",
+            "weight":[40, 80],
+            "height":[36, 48]
+        },
+        {
+            "race": "dwarf",
+            "weight": [],
+            "height": [48, 60]
+        },
+        {
+            "race": "satyr"
+        },
+        {
+            "race": "gnome"
+        },
+        {
+            "race": "centaur"
+        },
+        {
+            "race": "minotaur"
+        },
+        {
+            "race": "hobgoblins"
+        },
+        {
+            "race": "eladrin"
+        },
+        {
+            "race": "vedalken"
+        }
     ],
     "proffesions": [
         {

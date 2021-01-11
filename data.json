@@ -1,4 +1,22 @@
 {
+    "species":[
+        {
+            "race": "human"
+
+        },
+        {"race":"ork"},
+        {"race": "elf"},
+        {"race":"halfing"},
+        {"race":"tiefling"},
+        {"race": "Dragonborn"},
+        {"race": "goblin"},
+        {"race": "dwarf"},
+        {"race": "satyr"},
+        {"race": "gnome"},
+        {"race": "centaur"},
+        {"race": "minotaur"},
+        {"race": "hobgoblins"}
+    ],
     "proffesions": [
         {
             "building": "blacksith",

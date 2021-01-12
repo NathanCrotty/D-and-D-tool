@@ -382,6 +382,7 @@
         },
         {
             "building": "other",
+            "items": ["small mirror"],
             "people": [
                 "merchant",
                 "fisherman",
